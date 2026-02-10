@@ -18,7 +18,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/gs-rest-service-main/initial" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/gs-rest-service-main/initial" />
+            <option value="$PROJECT_DIR$/gs-rest-service-main/Initial" />
           </set>
         </option>
       </GradleProjectSettings>
